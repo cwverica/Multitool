@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Multi tool</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Science. It’s harmless and simple enough by itself. See, when I was in elementary school,
+        I loved science. I lived for Thursdays because every Thursday my teacher (who wasn’t paid
+        nearly enough) donned her lab coat and taught us about animals, plants, volcanoes… Anyway,
+        middle school science was much the same as elementary school science, albeit a bit harder.
+        It was exhilarating to learn about geology, petrology, plant-ology… Is that a thing? Never
+        mind. Plant-ology aside, middle school science was fun. Then I got to high school. That’s
+        when it all changed. They decided to put math in science with all its numbers and…
+        (frustrated) and letters- pretending-to-be-numbers. Of all the things that they could have
+        chosen, math! I complained about it to my dad, and he said that math and science go hand in
+        hand. You can’t have one without the other. That’s why I’m not going into the sciences.
+    </string>
+</resources>
