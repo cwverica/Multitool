@@ -62,8 +62,14 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_calculator) {
             return true;
+        }
+        if (id == R.id.action_todo) {
+            // Pull up todo menu
+        }
+        if (id == R.id.action_alarms) {
+            // pull up alarms
         }
 
         return super.onOptionsItemSelected(item);
